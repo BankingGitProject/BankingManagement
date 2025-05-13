@@ -1,6 +1,6 @@
 # main.py
 
-from order import create_account,transfer_money,view_last_5_transactions,view_full_history,show_menu,deposit_money,withdraw_money,view_balance
+from bank_ops import create_account,transfer_money,view_last_5_transactions,view_full_history,show_menu,deposit_money,withdraw_money,view_balance
 (
     show_menu,
     create_account,
